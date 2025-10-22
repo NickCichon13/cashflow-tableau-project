@@ -12,9 +12,9 @@ By evaluating these metrics, we can identify inefficiencies within A/R and A/P p
 
 ## Tech Stack
 
-**Python** - Data clenzing and KPI calculation
+**Python** - Data cleansing and KPI calculation
 **Postgresql**  - Data storage and querying
-**Tableau** - Interactive data vizzulation
+**Tableau** - Interactive data visualization
 
 ## Author
 
